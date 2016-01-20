@@ -12,6 +12,6 @@
     "type": "magento-module",
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "augustash/ash_core": "*",
+        "augustash/ash_core": "*"
     }
 }
