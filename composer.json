@@ -1,0 +1,17 @@
+{
+    "name": "augustash/ash_reports",
+    "description": "Magento 1.x module to add reports to the admin report functionality:",
+    "homepage": "https://github.com/augustash/ash_reports.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josh Johnson",
+            "email": "jjohnson@augustash.com"
+        }
+    ],
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "augustash/ash_core": "*",
+    }
+}
